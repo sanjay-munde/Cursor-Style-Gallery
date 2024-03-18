@@ -49,7 +49,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 To create a well-designed GitHub `README.md` file for the project with icons, you can follow the structure below. I'll include Markdown code along with icons for better visualization.
 
-```markdown
+markdown
 # CSS Cursor Style Gallery <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
 
 Discover various cursor styles by hovering over each box below.
@@ -78,9 +78,8 @@ Visit the live demo [here](#).
 
 1. Clone the repository:
 
-```bash
+bash
 git clone https://github.com/your-username/your-repo.git
-```
 
 2. Open `index.html` in your browser.
 
@@ -101,6 +100,6 @@ Designed by [Sanjay Munde](https://github.com/sanjay-munde).
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
+
 
 This Markdown file includes sections such as project overview, preview (with an image), available cursor styles with icons, usage instructions, contribution guidelines, credits, and license information. You need to replace placeholders like image links, demo link, GitHub usernames, etc., with your actual information. Additionally, ensure to add appropriate icons and update the license badge accordingly. You can use shields.io to generate badges for licenses.
