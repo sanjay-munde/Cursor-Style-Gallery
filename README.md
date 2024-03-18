@@ -6,7 +6,7 @@ Discover various cursor styles by hovering over each box.
 
 ## Demo
 
-[View Demo](https://your-demo-link-here.com)
+[View Demo](https://sanjay-munde.github.io/Cursor-Style-Gallery)
 
 ## About
 
