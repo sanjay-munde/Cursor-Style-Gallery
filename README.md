@@ -41,4 +41,4 @@ Contributions are welcome! Please refer to the [Contributing Guidelines](CONTRIB
 
 ## License
 
-This project is licensed under the [MIT License]([LICENSE](https://github.com/sanjay-munde/Cursor-Style-Gallery/edit/main/LICENSE).
+This project is licensed under the [MIT License]([LICENSE]https://github.com/sanjay-munde/Cursor-Style-Gallery/edit/main/LICENSE).
