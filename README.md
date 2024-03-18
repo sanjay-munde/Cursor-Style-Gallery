@@ -35,9 +35,7 @@ git clone https://github.com/your-username/css-cursor-style-gallery.git
 2. Open `index.html` in your web browser.
 
 
-## Contributing
 
-Contributions are welcome! Please refer to the [Contributing Guidelines](CONTRIBUTING.md).
 
 ## License
 
